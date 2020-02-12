@@ -1,6 +1,12 @@
 # Engineering Feedback Guidance
 
-The following guidance provides a minimum set of details that will result in actionable engineering feedback. Ensure that you provide as much detail for each of the following sections as relevant and possible.
+The following guidance provides a minimum set of details that will result in actionable engineering feedback. Ensure the feedback you are submitting is:
+
+- Specific
+- Actionable 
+- Impactful
+
+In addition, please provide as much customer specific contextual information as possible to help engineering put feedback in context (e.g. what scenario is the customer trying to implement?, etc.). Also provide as much detail for each of the following sections (in the feedback submission form) as relevant and possible:
 
 ## Title
 
